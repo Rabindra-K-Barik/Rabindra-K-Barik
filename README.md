@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rabindra-K-Barik/Rabindra-K-Barik/blob/main/RABINDRA.png)
 <h1 align="center">Hi 👋, I'm Rabindra Barik</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
