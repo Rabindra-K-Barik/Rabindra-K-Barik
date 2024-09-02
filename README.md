@@ -1,4 +1,4 @@
-![logo](https://github.com/Rabindra-K-Barik/Rabindra-K-Barik/blob/main/RABINDRA.png)
+![logo](https://github.com/Rabindra-K-Barik/Rabindra-K-Barik/blob/main/(04)%20298%203985%202092%20%2B76%20209%201092%204095%20info%40mollysrestaurant.com_20240902_005719_0000.png)
 <h1 align="center">Hi 👋, I'm Rabindra Barik</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
